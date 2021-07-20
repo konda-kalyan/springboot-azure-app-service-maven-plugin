@@ -1,2 +1,2 @@
-# springboot-azure-app-service-maven-plugin
-Springboot application to deploy on Azure App Service through Maven Plugin
+# springboot-azure-app-service
+Sample Hello world springboot application to deploy on Azure App Service
